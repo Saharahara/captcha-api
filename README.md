@@ -7,7 +7,7 @@ This Flask-based API provides endpoints for generating, verifying CAPTCHAs, and 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/captcha-api.git
+   git clone https://github.com/Saharahara/captcha-api.git
    cd captcha-api
 2. **Install dependencies**
    ```bash
@@ -16,7 +16,7 @@ This Flask-based API provides endpoints for generating, verifying CAPTCHAs, and 
    pip install captcha
 3. **Run the Application**
     ```bash
-   python3 app.py
+   python3 captcha_api.py
 4.  **Generate a captcha**
    Make a GET request to the /api/captcha/generate endpoint:
    ```bash
